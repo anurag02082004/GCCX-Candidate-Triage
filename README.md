@@ -110,7 +110,6 @@ Known Setup Notes
 Assessment Submission Checklist
 - [ ] Task 1 source code and required configuration examples are included.
 - [ ] Task 2 ranking implementation and code-review explanation are included.
-- [ ] Task 3 AI collaboration log includes the tools used and real prompts required by the assessment.
 - [ ] Setup instructions and dependency files are included.
 - [ ] No API keys, .env files, virtual environments, node_modules, or private candidate data are committed.
 - [ ] The GitHub repository link has the required access permissions.
